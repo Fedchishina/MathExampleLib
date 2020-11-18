@@ -1,0 +1,17 @@
+{
+    "name": "fedchishina/math-example-lib",
+    "authors": [
+        {
+            "name": "Fedchishina",
+            "email": "fedchishina.victoria@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "MathExampleLib\\": "src/"
+        }
+    }
+}
